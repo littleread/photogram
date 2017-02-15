@@ -7,6 +7,8 @@ end
 
 gem 'hirb'
 
+gem 'kaminari', '~> 1.0.1'
+
 gem 'bootstrap-glyphicons'
 
 gem 'devise'
